@@ -16,7 +16,7 @@ exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vender']
 # * Project page:
 #   url: http://USERNAME.github.com/REPOSITORY
 #   baseurl: /REPOSITORY
-url: http://USERNAME.github.com
+url: https://github.com/FrenchyFPS/website-jekyll-exp
 baseurl: 
 
 # Configuration for permalink
@@ -24,9 +24,9 @@ baseurl:
 permalink: /blog/:year/:month/:title/
 
 # Configuration for site
-title: The Code Folio
-description: A personal log of life coding.
-author: USERNAME
+title: frenchyfps
+description: Frenchy site web.
+author: Frenchy
 email: USERNAME@example.com
 
 # Configuration for blog
