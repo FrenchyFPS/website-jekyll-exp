@@ -124,3 +124,5 @@ twitter:
 pocket: true
 
 #hatena: true
+
+theme: jekyll-theme-cayman
